@@ -2,4 +2,5 @@ Here is some content
 Hiya
 This is content in second
 This is content in newbranch
+SECOND
 FIRST
